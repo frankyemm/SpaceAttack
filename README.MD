@@ -220,5 +220,4 @@ Si deseas contribuir a este proyecto, eres bienvenido. Puedes crear un pull requ
 
 Este juego fue creado utilizando Python y PyGame como parte de un proyecto educativo. 
 
----#   S p a c e A t t a c k  
- 
+---
